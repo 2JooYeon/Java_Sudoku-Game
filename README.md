@@ -5,6 +5,9 @@
 
 >2020-2 Object-Oriented-Programming class in CAU Team2
 
+## What I Learned
+The application of MVC pattern in this project seemed to be the most interesting. I had previously learned about MVC patterns in the departmental academic club, so I played a role in setting the overall structure of the program and writing code of the controller package and view package. Clearly, I felt that the program was more object-oriented and flexible because we design the program with modularization by using MVC patterns.
+In order to differentiate itself from the existing Sudoku games, we added mini games on the condition that they provide hints, and this part seems to be very interesting. After making the game by paying attention to the UI by using Java's GUI, I could feel the completeness of the project visually. In particular, this team project was helpful and fun because the role distribution was very good with the team members.
 
 ## Team Member
 |Name|Role|
